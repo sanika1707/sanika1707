@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [sanika-khirit.vercel.app]([sanika-khirit.vercel.app](https://sanika-khirit.vercel.app/]())
+- 👨‍💻 All of my projects are available at [sanika-khirit.vercel.app](https://sanika-khirit.vercel.app/)
 
 - 📫 How to reach me **sanikakhirit43@gmail.com**
 
